@@ -1,0 +1,1074 @@
+{
+  "authorThreshold": 6,
+  "authorMode": "others",
+  "journalMappings": [
+    {
+      "full": "IEEE Access",
+      "abbr": "IEEE Access"
+    },
+    {
+      "full": "IEEE Aerospace and Electronics Systems Magazine",
+      "abbr": "IEEE Aerosp. Electron. Syst. Mag."
+    },
+    {
+      "full": "IEEE Transactions on Aerospace and Electronic Systems",
+      "abbr": "IEEE Trans. Aerosp. Electron. Syst."
+    },
+    {
+      "full": "IEEE Transactions on Affective Computing",
+      "abbr": "IEEE Trans. Affective Comput."
+    },
+    {
+      "full": "IEEE Transactions on AgriFood Electronics",
+      "abbr": "IEEE Trans. AgriFood Electron."
+    },
+    {
+      "full": "IEEE Open Journal of Antennas and Propagation",
+      "abbr": "IEEE Open J. Antennas Propag."
+    },
+    {
+      "full": "IEEE Transactions on Antennas and Propagation",
+      "abbr": "IEEE Trans. Antennas Propag."
+    },
+    {
+      "full": "IEEE Antennas and Propagation Magazine",
+      "abbr": "IEEE Antennas Propag. Mag."
+    },
+    {
+      "full": "IEEE Antennas and Wireless Propagation Letters",
+      "abbr": "IEEE Antennas Wireless Propag. Lett."
+    },
+    {
+      "full": "IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing",
+      "abbr": "IEEE J. Sel. Topics Appl. Earth Observ. Remote Sens."
+    },
+    {
+      "full": "IEEE Transactions on Applied Superconductivity",
+      "abbr": "IEEE Trans. Appl. Supercond."
+    },
+    {
+      "full": "IEEE Transactions on Artificial Intelligence",
+      "abbr": "IEEE Trans. Artif. Intel."
+    },
+    {
+      "full": "IEEE Transactions on Audio, Speech, and Language Processing",
+      "abbr": "IEEE Trans. Audio, Speech, Language Process."
+    },
+    {
+      "full": "IEEE Transactions on Automatic Control",
+      "abbr": "IEEE Trans. Autom. Control"
+    },
+    {
+      "full": "IEEE Transactions on Automation Science and Engineering",
+      "abbr": "IEEE Trans. Autom. Sci. Eng."
+    },
+    {
+      "full": "IEEE Transactions on Autonomous Mental Development",
+      "abbr": "IEEE Trans. Auton. Mental Develop."
+    },
+    {
+      "full": "Bell Systems Technical Journal",
+      "abbr": "Bell Syst. Tech. J."
+    },
+    {
+      "full": "IEEE Transactions on Big Data",
+      "abbr": "IEEE Trans. Big Data"
+    },
+    {
+      "full": "IEEE Journal of Biomedical and Health Informatics",
+      "abbr": "IEEE J. Biomed. Health Inform."
+    },
+    {
+      "full": "IEEE Transactions on Biomedical Circuits and Systems",
+      "abbr": "IEEE Trans. Biomed. Circuits Syst."
+    },
+    {
+      "full": "IEEE Reviews in Biomedical Engineering",
+      "abbr": "IEEE Rev. Biomed. Eng."
+    },
+    {
+      "full": "IEEE Transactions on Biomedical Engineering",
+      "abbr": "IEEE Trans. Biomed. Eng."
+    },
+    {
+      "full": "Biometrics Compendium",
+      "abbr": "Biometrics Compend."
+    },
+    {
+      "full": "IEEE Transactions on Biometrics, Behavior, and Identity Science",
+      "abbr": "IEEE Trans. Biom., Behav., Ident. Sci."
+    },
+    {
+      "full": "IEEE BITS the Information Theory Magazine",
+      "abbr": "IEEE BITS the Information Theory Magazine"
+    },
+    {
+      "full": "IEEE Transactions on Broadcasting Television Receivers",
+      "abbr": "IEEE Trans. Broadcast. Telev. Receiv."
+    },
+    {
+      "full": "IEEE Transactions of Broadcasting",
+      "abbr": "IEEE Trans. Broadcast."
+    },
+    {
+      "full": "Canadian Journal of Electrical and Computer Engineering",
+      "abbr": "Can. J. Elect. Comput. Eng."
+    },
+    {
+      "full": "IEEE Canadian Review",
+      "abbr": "IEEE Canadian Rev."
+    },
+    {
+      "full": "China Communications Magazine",
+      "abbr": "China Commun."
+    },
+    {
+      "full": "IEEE Circuits and Devices Magazine",
+      "abbr": "IEEE Circuits Devices Mag."
+    },
+    {
+      "full": "IEEE Open Journal of Circuits and Systems",
+      "abbr": "IEEE Open J. Circuits Syst."
+    },
+    {
+      "full": "IEEE Circuits and Systems Magazine",
+      "abbr": "IEEE Circuits Syst. Mag."
+    },
+    {
+      "full": "Circuits and Systems for Artificial Intelligence",
+      "abbr": "IEEE Trans. Circuits Syst. Artif. Intel."
+    },
+    {
+      "full": "IEEE Transactions on Circuits and Systems for Video Technology",
+      "abbr": "IEEE Trans. Circuits Syst. Video Technol."
+    },
+    {
+      "full": "IEEE Transactions on Circuits and Systems--I: Regular Papers",
+      "abbr": "IEEE Trans. Circuits Syst. I, Reg. Papers"
+    },
+    {
+      "full": "IEEE Transactions on Circuits and Systems--II: Express Briefs",
+      "abbr": "IEEE Trans. Circuits Syst. II, Exp. Briefs"
+    },
+    {
+      "full": "IEEE Journal on Emerging and Selected Topics in Circuits and Systems",
+      "abbr": "IEEE Trans. Emerg. Sel. Topics Circuits Syst."
+    },
+    {
+      "full": "IEEE Transactions on Circuits and Systems-I. Fundamental Theory and Applications",
+      "abbr": "IEEE Trans. Circuits Syst. I. Fundam. Theory Appl."
+    },
+    {
+      "full": "IEEE Transactions on Circuits and Systems-II. Analog and Digital Signal Processing",
+      "abbr": "IEEE Trans. Circuits Syst. II. Analog Digit. Signal Process."
+    },
+    {
+      "full": "IEEE Transactions on Cloud Computing",
+      "abbr": "IEEE Trans. Cloud Comput."
+    },
+    {
+      "full": "IEEE Transactions on Cognitive and Developmental Systems",
+      "abbr": "IEEE Trans. Cogn. Develop. Syst."
+    },
+    {
+      "full": "IEEE Transactions on Cognitive Communications and Networking",
+      "abbr": "IEEE Trans. Cogn. Commun. Netw."
+    },
+    {
+      "full": "IEEE Communications Letters",
+      "abbr": "IEEE Commun. Lett."
+    },
+    {
+      "full": "IEEE Communications Magazine",
+      "abbr": "IEEE Commun. Mag."
+    },
+    {
+      "full": "IEEE Communications Society Magazine",
+      "abbr": "IEEE Commun. Soc. Mag."
+    },
+    {
+      "full": "IEEE Journal on Selected Areas in Communications",
+      "abbr": "IEEE J. Sel. Areas Commun."
+    },
+    {
+      "full": "IEEE Transactions on Communications",
+      "abbr": "IEEE Trans. Commun."
+    },
+    {
+      "full": "IEEE Open Journal of the Communications Society",
+      "abbr": "IEEE Open J. Commun. Soc."
+    },
+    {
+      "full": "IEEE Communications Surveys & Tutorials",
+      "abbr": "IEEE Commun. Surveys Tuts."
+    },
+    {
+      "full": "IEEE Transactions on Components, Packaging and Manufacturing Technology",
+      "abbr": "IEEE Trans. Compon., Packag. Manuf. Technol."
+    },
+    {
+      "full": "IEEE Transactions on Computational Biology and Bioinformatics",
+      "abbr": "IEEE Trans. Comput. Biol. Bioinf."
+    },
+    {
+      "full": "IEEE Transactions on Computational Imaging",
+      "abbr": "IEEE Trans. Comput. Imag."
+    },
+    {
+      "full": "IEEE Computational Intelligence Magazine",
+      "abbr": "IEEE Comput. Intell. Mag."
+    },
+    {
+      "full": "IEEE Transactions on Emerging Topics in Computational Intelligence",
+      "abbr": "IEEE Trans. Emerg. Topics Comput. Intell."
+    },
+    {
+      "full": "IEEE Transactions on Computational Social Systems",
+      "abbr": "IEEE Trans. Comput. Social Syst."
+    },
+    {
+      "full": "IEEE Computer",
+      "abbr": "Computer"
+    },
+    {
+      "full": "IEEE Computer Applications in Power",
+      "abbr": "IEEE Comput. Appl. Power"
+    },
+    {
+      "full": "IEEE Computer Architecture Letters",
+      "abbr": "IEEE Comput. Archit. Lett."
+    },
+    {
+      "full": "IEEE Computer Graphics and Applications",
+      "abbr": "IEEE Comput. Graph. Appl."
+    },
+    {
+      "full": "IEEE Letters of Computer Society",
+      "abbr": "Lett. IEEE Comput. Soc."
+    },
+    {
+      "full": "IEEE Open Journal of the Computer Society",
+      "abbr": "IEEE Open J. Comput. Soc."
+    },
+    {
+      "full": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+      "abbr": "IEEE Trans. Comput.-Aided Design Integr. Circuits Syst."
+    },
+    {
+      "full": "IEEE Transactions on Computers",
+      "abbr": "IEEE Trans. Comput."
+    },
+    {
+      "full": "Computing in Science and Engineering",
+      "abbr": "Comput. Sci. Eng."
+    },
+    {
+      "full": "IEEE Transactions on Emerging Topics in Computing",
+      "abbr": "IEEE Trans. Emerg. Topics Comput."
+    },
+    {
+      "full": "IEEE Concurrency",
+      "abbr": "IEEE Concurrency"
+    },
+    {
+      "full": "IEEE Consumer Electronics Magazine",
+      "abbr": "IEEE Consum. Electron. Mag."
+    },
+    {
+      "full": "IEEE Transactions on Consumer Electronics",
+      "abbr": "IEEE Trans. Consum. Electron."
+    },
+    {
+      "full": "IEEE Transactions on Control of Network Systems",
+      "abbr": "IEEE Control Netw. Syst."
+    },
+    {
+      "full": "IEEE Open Journal of Control Systems",
+      "abbr": "IEEE Open J. Control Syst."
+    },
+    {
+      "full": "IEEE Control Systems Letters",
+      "abbr": "IEEE Contr. Syst. Lett."
+    },
+    {
+      "full": "IEEE Control Systems Magazine",
+      "abbr": "IEEE Control Syst."
+    },
+    {
+      "full": "IEEE Transactions on Control Systems Technology",
+      "abbr": "IEEE Trans. Control Syst. Technol."
+    },
+    {
+      "full": "IEEE Transactions on Cybernetics",
+      "abbr": "IEEE Trans. Cybern."
+    },
+    {
+      "full": "IEEE Data Descriptions",
+      "abbr": "IEEE. Data Descr."
+    },
+    {
+      "full": "IEEE Transactions on Dependable and Secure Computing",
+      "abbr": "IEEE Trans. Dependable Secure Comput."
+    },
+    {
+      "full": "IEEE Design & Test",
+      "abbr": "IEEE Des. Test."
+    },
+    {
+      "full": "IEEE Transactions on Device and Materials Reliability",
+      "abbr": "IEEE Trans. Device Mater. Rel."
+    },
+    {
+      "full": "IEEE Transactions on Dielectrics and Electrical Insulation",
+      "abbr": "IEEE Trans. Dielectr. Electr. Insul."
+    },
+    {
+      "full": "IEEE/OSA Journal of Display Technology",
+      "abbr": "J. Display Technol."
+    },
+    {
+      "full": "IEEE Transactions on Education",
+      "abbr": "IEEE Trans. Educ."
+    },
+    {
+      "full": "IEEE Electrical Insulation Magazine",
+      "abbr": "IEEE Elect. Insul. Mag."
+    },
+    {
+      "full": "IEEE Electrification Magazine",
+      "abbr": "IEEE Electrific. Mag."
+    },
+    {
+      "full": "IEEE Electromagnetic Compatibility Magazine",
+      "abbr": "IEEE Electromagn. Compat."
+    },
+    {
+      "full": "IEEE Transactions on Electromagnetic Compatibility",
+      "abbr": "IEEE Trans. Electromagn. Compat."
+    },
+    {
+      "full": "IEEE Letters on Electromagnetic Compatibility Practice and Applications",
+      "abbr": "IEEE. Lett. EMC. Pract. Applicat."
+    },
+    {
+      "full": "IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology",
+      "abbr": "IEEE J. Electromagn., RF, Microw. Med. Biol."
+    },
+    {
+      "full": "IEEE Electron Device Letters",
+      "abbr": "IEEE Electron Device Lett."
+    },
+    {
+      "full": "IEEE Electron Devices Magazine",
+      "abbr": "IEEE Electron Devices Mag."
+    },
+    {
+      "full": "IEEE Electron Devices Reviews",
+      "abbr": "IEEE Electron Devices Rev."
+    },
+    {
+      "full": "Journal of the Electron Devices Society",
+      "abbr": "IEEE J. Electron Devices Soc."
+    },
+    {
+      "full": "IEEE Transactions on Electron Devices",
+      "abbr": "IEEE Trans. Electron Devices"
+    },
+    {
+      "full": "IEEE Transactions on Electronics Packaging Manufacturing",
+      "abbr": "IEEE Trans. Electron. Packag. Manuf."
+    },
+    {
+      "full": "IEEE ElectroTechnology Review",
+      "abbr": "IEEE ElectroTechnol. Rev."
+    },
+    {
+      "full": "IEEE Embedded Systems Letters",
+      "abbr": "IEEE Embedded Syst. Lett."
+    },
+    {
+      "full": "IEEE Journal of Emerging and Selected Topics in Industrial Electronics",
+      "abbr": "IEEE J. Emerg. Sel. Top. Ind. Electron."
+    },
+    {
+      "full": "IEEE Journal of Emerging and Selected Topics in Power Electronics",
+      "abbr": "IEEE Trans. Emerg. Sel. Topics Power Electron."
+    },
+    {
+      "full": "IEEE Transactions on Energy Conversion",
+      "abbr": "IEEE Trans. Energy Convers."
+    },
+    {
+      "full": "IEEE Transactions on Energy Markets, Policy, and Regulation",
+      "abbr": "IEEE Trans. Energy Markets, Policy, Regulat."
+    },
+    {
+      "full": "IEEE Open Journal of Engineering in Medicine and Biology",
+      "abbr": "IEEE Open J. Eng. Med. Biol."
+    },
+    {
+      "full": "IEEE Transactions on Engineering Management",
+      "abbr": "IEEE Trans. Eng. Manag."
+    },
+    {
+      "full": "IEEE Engineering Management Review",
+      "abbr": "IEEE Eng. Manag. Rev."
+    },
+    {
+      "full": "IEEE Transactions on Evolutionary Computation",
+      "abbr": "IEEE Trans. Evol. Comput."
+    },
+    {
+      "full": "IEEE Journal on Exploratory Solid-State Computational Devices and Circuits",
+      "abbr": "IEEE J. Explor. Solid-State Computat."
+    },
+    {
+      "full": "IEEE Transactions on Field Robotics",
+      "abbr": "IEEE Trans. Field Robot."
+    },
+    {
+      "full": "IEEE Journal on Flexible Electronics",
+      "abbr": "IEEE J. Flex. Electron."
+    },
+    {
+      "full": "IEEE Transactions on Fuzzy Systems",
+      "abbr": "IEEE Trans. Fuzzy Syst."
+    },
+    {
+      "full": "IEEE Transactions on Games",
+      "abbr": "IEEE Trans. Games"
+    },
+    {
+      "full": "IEEE Geoscience and Remote Sensing Letters",
+      "abbr": "IEEE Geosci. Remote Sens. Lett."
+    },
+    {
+      "full": "IEEE Geoscience and Remote Sensing Magazine",
+      "abbr": "IEEE Geosci. Remote Sens. Mag."
+    },
+    {
+      "full": "IEEE Transactions on Geoscience and Remote Sensing",
+      "abbr": "IEEE Trans. Geosci. Remote Sens."
+    },
+    {
+      "full": "IEEE Transactions on Green Communications and Networking",
+      "abbr": "IEEE Trans. Green Commun. Netw."
+    },
+    {
+      "full": "IEEE Transactions on Haptics",
+      "abbr": "IEEE Trans. Haptics"
+    },
+    {
+      "full": "IEEE Annals of the History of Computing",
+      "abbr": "IEEE Ann. Hist. Comput."
+    },
+    {
+      "full": "IEEE Transactions on Human-Machine Systems",
+      "abbr": "IEEE Trans. Human-Mach. Syst."
+    },
+    {
+      "full": "IEEE Revista Iberoamericana de Technologias del Aprendizaje",
+      "abbr": "IEEE Rev. Iberoam. Tecnol. Aprendizaje"
+    },
+    {
+      "full": "IBM Journal of Research and Development",
+      "abbr": "IBM J. Res. Dev."
+    },
+    {
+      "full": "IEEE RFID Virtual Journal (Compendium)",
+      "abbr": "IEEE RIFD Virtual J. Compend."
+    },
+    {
+      "full": "IEEE Transactions on Image Processing",
+      "abbr": "IEEE Trans. Image Process."
+    },
+    {
+      "full": "IEEE Open Journal on Immersive Displays",
+      "abbr": "IEEE Open J. Immersive Displays"
+    },
+    {
+      "full": "IEEE Journal of Indoor and Seamless Positioning and Navigation",
+      "abbr": "IEEE. J. Indoor Seamless Position. Navig."
+    },
+    {
+      "full": "IEEE Transactions on Industrial Cyber-Physical Systems",
+      "abbr": "IEEE Trans. Ind. Cyber-Phys. Syst."
+    },
+    {
+      "full": "IEEE Open Journal of Industry Applications",
+      "abbr": "IEEE Open J. Ind. Applicat."
+    },
+    {
+      "full": "IEEE Industry Applications Magazine",
+      "abbr": "IEEE Ind. Appl. Mag."
+    },
+    {
+      "full": "IEEE Transactions on Industry Applications",
+      "abbr": "IEEE Trans. Ind Appl."
+    },
+    {
+      "full": "IEEE Industrial Electronics Magazine",
+      "abbr": "IEEE Ind. Electron. Mag."
+    },
+    {
+      "full": "IEEE Transactions on Industrial Electronics",
+      "abbr": "IEEE Trans. Ind. Electron."
+    },
+    {
+      "full": "IEEE Open Journal of the Industrial Electronics Society",
+      "abbr": "IEEE Open J. Ind. Electron. Soc."
+    },
+    {
+      "full": "IEEE Transactions on Industrial Informatics",
+      "abbr": "IEEE Trans. Ind. Informat."
+    },
+    {
+      "full": "IEEE Transactions on Information Forensics and Security",
+      "abbr": "IEEE Trans. Inf. Forensics Security"
+    },
+    {
+      "full": "IEEE Journal on Selected Areas in Information Theory",
+      "abbr": "IEEE J. Sel. Areas Inf. Theory"
+    },
+    {
+      "full": "IEEE Transactions on Information Theory",
+      "abbr": "IEEE Trans. Inf. Theory"
+    },
+    {
+      "full": "IEEE Open Journal of Instrumentation and Measurement",
+      "abbr": "IEEE Open J. Instrum. Meas."
+    },
+    {
+      "full": "IEEE Instrumentation and Measurement Magazine",
+      "abbr": "IEEE Instrum. Meas. Mag."
+    },
+    {
+      "full": "IEEE Transactions on Instrumentation and Measurement",
+      "abbr": "IEEE Trans. Instrum. Meas."
+    },
+    {
+      "full": "Integrated Circuits and Systems",
+      "abbr": "Integr. Circuits Syst."
+    },
+    {
+      "full": "IEEE Intelligent Systems",
+      "abbr": "IEEE Intell. Syst."
+    },
+    {
+      "full": "IEEE Open Journal of Intelligent Transportation Systems",
+      "abbr": "IEEE Open J. Intell. Transp. Syst."
+    },
+    {
+      "full": "IEEE Intelligent Transportation Systems Magazine",
+      "abbr": "IEEE Intell. Transp. Syst. Mag."
+    },
+    {
+      "full": "IEEE Transactions on Intelligent Transportation Systems",
+      "abbr": "IEEE Trans. Intell. Transp. Syst."
+    },
+    {
+      "full": "IEEE Transactions on Intelligent Vehicles",
+      "abbr": "IEEE Trans. Intell. Veh."
+    },
+    {
+      "full": "IEEE Internet Computing",
+      "abbr": "IEEE Internet Comput."
+    },
+    {
+      "full": "IEEE Internet of Things Journal",
+      "abbr": "IEEE Internet Things J."
+    },
+    {
+      "full": "IT Professional",
+      "abbr": "IT Prof."
+    },
+    {
+      "full": "IEEE Transactions on Knowledge and Data Engineering",
+      "abbr": "IEEE Trans. Knowl. Data Eng."
+    },
+    {
+      "full": "IEEE Transactions on Learning Technologies",
+      "abbr": "IEEE Trans. Learn. Technol."
+    },
+    {
+      "full": "IEEE Life Sciences Letters",
+      "abbr": "IEEE Life Sci. Lett."
+    },
+    {
+      "full": "IEEE/OSA Journal of Lightwave Technology",
+      "abbr": "J. Lightw. Technol."
+    },
+    {
+      "full": "IEEE Transactions on Machine Learning in Communications and Networking",
+      "abbr": "IEEE Trans. Mach. Learn. Commun. Netw."
+    },
+    {
+      "full": "IEEE Magnetics Letters",
+      "abbr": "IEEE Magn. Lett."
+    },
+    {
+      "full": "IEEE Transactions on Magnetics",
+      "abbr": "IEEE Trans. Magn."
+    },
+    {
+      "full": "IEEE/ASME Transactions on Mechatronics",
+      "abbr": "IEEE/ASME Trans. Mechatronics"
+    },
+    {
+      "full": "IEEE Transactions on Medical Imaging",
+      "abbr": "IEEE Trans. Med. Imag."
+    },
+    {
+      "full": "IEEE Transactions on Medical Robotics and Bionics",
+      "abbr": "IEEE Trans. Med. Robot. Bionics"
+    },
+    {
+      "full": "IEEE Micro",
+      "abbr": "IEEE Micro"
+    },
+    {
+      "full": "IEEE Journal of Microelectromechanical Systems",
+      "abbr": "J. Microelectromech. Syst."
+    },
+    {
+      "full": "IEEE Microwave Magazine",
+      "abbr": "IEEE Microw. Mag."
+    },
+    {
+      "full": "IEEE Microwave and Wireless Technology Letters",
+      "abbr": "IEEE Microw. Wireless Technol. Lett."
+    },
+    {
+      "full": "IEEE Transactions on Microwave Theory and Techniques",
+      "abbr": "IEEE Trans. Microw. Theory Techn."
+    },
+    {
+      "full": "IEEE Journal of Microwaves",
+      "abbr": "IEEE J. Microwaves"
+    },
+    {
+      "full": "IEEE Journal of Miniaturization for Air and Space Systems",
+      "abbr": "IEEE J. Miniat. Air Space Syst."
+    },
+    {
+      "full": "IEEE Transactions on Mobile Computing",
+      "abbr": "IEEE Trans. Mobile Comput."
+    },
+    {
+      "full": "IEEE Transactions on Molecular, Biological, and Multi-Scale Communications",
+      "abbr": "IEEE Trans. Mol. Biol. Multi-Scale Commun."
+    },
+    {
+      "full": "IEEE MultiMedia",
+      "abbr": "IEEE MultiMedia"
+    },
+    {
+      "full": "IEEE Transactions on Multimedia",
+      "abbr": "IEEE Trans. Multimedia"
+    },
+    {
+      "full": "IEEE Transactions on Multi-Scale Computing Systems",
+      "abbr": "IEEE Trans. Multi-Scale Comput. Syst."
+    },
+    {
+      "full": "IEEE Journal on Multiscale and Multiphysics Computational Techniques",
+      "abbr": "IEEE J. Multiscale Multiphys. Comput. Tech."
+    },
+    {
+      "full": "IEEE Transactions on NanoBioscience",
+      "abbr": "IEEE Trans. Nanobiosci."
+    },
+    {
+      "full": "IEEE Nanotechnology Express",
+      "abbr": "IEEE Nanotechnol. Exp."
+    },
+    {
+      "full": "IEEE Nanotechnology Magazine",
+      "abbr": "IEEE Nanotechnol. Mag."
+    },
+    {
+      "full": "IEEE Open Journal of Nanotechnology",
+      "abbr": "IEEE Open J. Nanotechnol."
+    },
+    {
+      "full": "IEEE Transactions on Nanotechnology",
+      "abbr": "IEEE Trans. Nanotechnol."
+    },
+    {
+      "full": "IEEE Network",
+      "abbr": "IEEE Netw."
+    },
+    {
+      "full": "IEEE Transactions on Network and Service Management",
+      "abbr": "IEEE Trans. Netw. Service Manag."
+    },
+    {
+      "full": "IEEE Transactions on Network Science and Engineering",
+      "abbr": "IEEE Trans. Netw. Sci. Eng."
+    },
+    {
+      "full": "IEEE Transactions on Networking",
+      "abbr": "IEEE Trans. Netw."
+    },
+    {
+      "full": "IEEE Networking Letters",
+      "abbr": "IEEE Netw. Lett."
+    },
+    {
+      "full": "IEEE Transactions on Neural Networks and Learning Systems",
+      "abbr": "IEEE Trans. Neural Netw. Learn. Syst."
+    },
+    {
+      "full": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+      "abbr": "IEEE Trans. Neural Syst. Rehabil. Eng."
+    },
+    {
+      "full": "IEEE Transactions on Nuclear Science",
+      "abbr": "IEEE Trans. Nucl. Sci."
+    },
+    {
+      "full": "IEEE Journal of Oceanic Engineering",
+      "abbr": "IEEE J. Ocean. Eng."
+    },
+    {
+      "full": "IEEE Journal of Optical Communications and Networking",
+      "abbr": "IEEE J. Opt. Commun. Netw."
+    },
+    {
+      "full": "IEEE Transactions on Parallel and Distributed Systems",
+      "abbr": "IEEE Trans. Parallel Distrib. Syst."
+    },
+    {
+      "full": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "abbr": "IEEE Trans. Pattern Anal. Mach. Intell."
+    },
+    {
+      "full": "IEEE Personal Communications",
+      "abbr": "IEEE Pers. Commun."
+    },
+    {
+      "full": "IEEE Pervasive Computing",
+      "abbr": "IEEE Pervasive Comput."
+    },
+    {
+      "full": "IEEE Photonics Journal",
+      "abbr": "IEEE Photon. J."
+    },
+    {
+      "full": "IEEE Photonics Technology Letters",
+      "abbr": "IEEE Photon. Technol. Lett."
+    },
+    {
+      "full": "IEEE Journal of Photovoltaics",
+      "abbr": "IEEE J. Photovolt."
+    },
+    {
+      "full": "IEEE Transactions on Plasma Science",
+      "abbr": "IEEE Trans. Plasma Sci."
+    },
+    {
+      "full": "IEEE Potentials",
+      "abbr": "IEEE Potentials"
+    },
+    {
+      "full": "IEEE Transactions on Power Apparatus and Systems",
+      "abbr": "IEEE Trans. Power App. Syst."
+    },
+    {
+      "full": "IEEE Power and Energy Magazine",
+      "abbr": "IEEE Power Energy Mag."
+    },
+    {
+      "full": "IEEE Open Access Journal of Power and Energy",
+      "abbr": "IEEE Open J. Power Energy"
+    },
+    {
+      "full": "IEEE Power and Energy Technology Systems Journal",
+      "abbr": "IEEE Power Energy Technol. Syst. J."
+    },
+    {
+      "full": "IEEE Transactions on Power Delivery",
+      "abbr": "IEEE Trans. Power Del."
+    },
+    {
+      "full": "IEEE Power Electronics Magazine",
+      "abbr": "IEEE Power Electron. Mag."
+    },
+    {
+      "full": "IEEE Open Journal of Power Electronics",
+      "abbr": "IEEE Open J. Power Electron."
+    },
+    {
+      "full": "IEEE Transactions on Power Electronics",
+      "abbr": "IEEE Trans. Power Electron."
+    },
+    {
+      "full": "IEEE Transactions on Power Systems",
+      "abbr": "IEEE Trans. Power Syst."
+    },
+    {
+      "full": "IEEE Transactions on Privacy",
+      "abbr": "IEEE Trans. Privacy"
+    },
+    {
+      "full": "Proceedings of the IEEE",
+      "abbr": "Proc. IEEE"
+    },
+    {
+      "full": "IEEE Journal on Product Safety Engineering",
+      "abbr": "IEEE J. Product Safety Eng."
+    },
+    {
+      "full": "IEEE Transactions on Professional Communication",
+      "abbr": "IEEE Prof. Commun."
+    },
+    {
+      "full": "IEEE Pulse",
+      "abbr": "IEEE Pulse"
+    },
+    {
+      "full": "IEEE Journal of Quantum Electronics",
+      "abbr": "IEEE J. Quantum Electron."
+    },
+    {
+      "full": "IEEE Journal of Selected Topics in Quantum Electronics",
+      "abbr": "IEEE J. Sel. Topics Quantum Electron."
+    },
+    {
+      "full": "IEEE Transactions on Quantum Engineering",
+      "abbr": "IEEE Trans. Quantum Eng."
+    },
+    {
+      "full": "IEEE Transactions on Radar Systems",
+      "abbr": "IEEE Trans. Radar Syst."
+    },
+    {
+      "full": "IEEE Transactions on Radiation and Plasma Medical Sciences",
+      "abbr": "IEEE Trans. Radiat. Plasma Med. Sci."
+    },
+    {
+      "full": "IEEE Journal of Radio Frequency Identification",
+      "abbr": "IEEE J. Radio Freq. Identif."
+    },
+    {
+      "full": "IEEE Reliability Magazine",
+      "abbr": "IEEE Rel. Mag."
+    },
+    {
+      "full": "IEEE Transactions on Reliability",
+      "abbr": "IEEE Trans. Rel."
+    },
+    {
+      "full": "IEEE RFIC Journal",
+      "abbr": "IEEE RFIC J."
+    },
+    {
+      "full": "IEEE Transactions on Robotics",
+      "abbr": "IEEE Trans. Robot."
+    },
+    {
+      "full": "IEEE Robotics and Automation Letters",
+      "abbr": "IEEE Trans. Robot. Autom."
+    },
+    {
+      "full": "IEEE Robotics & Automation Magazine",
+      "abbr": "IEEE Robot. Autom. Mag."
+    },
+    {
+      "full": "IEEE Robotics and Automation Practice",
+      "abbr": "IEEE Robot. Autom. Practice"
+    },
+    {
+      "full": "IEEE Security & Privacy",
+      "abbr": "IEEE Security Privacy"
+    },
+    {
+      "full": "IEEE Transactions on Semiconductor Manufacturing",
+      "abbr": "IEEE Trans. Semicond. Manuf."
+    },
+    {
+      "full": "IEEE Journal of Selected Areas in Sensors",
+      "abbr": "IEEE J. Sel. Areas Sensors"
+    },
+    {
+      "full": "IEEE Sensors Journal",
+      "abbr": "IEEE Sensors J."
+    },
+    {
+      "full": "IEEE Sensors Letters",
+      "abbr": "IEEE Sens. Lett."
+    },
+    {
+      "full": "IEEE Sensors Reviews",
+      "abbr": "IEEE Sens. Rev."
+    },
+    {
+      "full": "IEEE Transactions on Services Computing",
+      "abbr": "IEEE Trans. Services Comput."
+    },
+    {
+      "full": "IEEE Transactions on Signal and Information Processing over Networks",
+      "abbr": "IEEE Trans. Signal Inf. Process. Netw."
+    },
+    {
+      "full": "IEEE Signal Processing Letters",
+      "abbr": "IEEE Signal Process. Lett."
+    },
+    {
+      "full": "IEEE Signal Processing Magazine",
+      "abbr": "IEEE Signal Process. Mag."
+    },
+    {
+      "full": "IEEE Journal of Selected Topics in Signal Processing",
+      "abbr": "IEEE J. Sel. Topics Signal Process."
+    },
+    {
+      "full": "IEEE Open Journal of Signal Processing",
+      "abbr": "IEEE Open J. Signal Process."
+    },
+    {
+      "full": "IEEE Transactions on Signal Processing",
+      "abbr": "IEEE Trans. Signal Process."
+    },
+    {
+      "full": "IEEE Transactions on Smart Grid",
+      "abbr": "IEEE Trans. Smart Grid"
+    },
+    {
+      "full": "SMPTE Motion Imaging Journal",
+      "abbr": "SMPTE Mot. Imag. J."
+    },
+    {
+      "full": "IEEE Software",
+      "abbr": "IEEE Softw."
+    },
+    {
+      "full": "IEEE Transactions on Software Engineering",
+      "abbr": "IEEE Trans. Softw. Eng."
+    },
+    {
+      "full": "IEEE Solid-State Circuits Letters",
+      "abbr": "IEEE Solid-State Circuits Lett."
+    },
+    {
+      "full": "IEEE Journal of Solid-State Circuits",
+      "abbr": "IEEE J. Solid-State Circuits"
+    },
+    {
+      "full": "IEEE Solid-State Circuits Magazine",
+      "abbr": "IEEE Solid-State Circuits Mag."
+    },
+    {
+      "full": "IEEE Open Journal of the Solid-State Circuits Society",
+      "abbr": "IEEE Open J. Solid-State Circuits Soc."
+    },
+    {
+      "full": "IEEE Spectrum",
+      "abbr": "IEEE Spectr."
+    },
+    {
+      "full": "IEEE Transactions on Sustainable Computing",
+      "abbr": "IEEE Trans. Sustain. Comput."
+    },
+    {
+      "full": "IEEE Transactions on Sustainable Energy",
+      "abbr": "IEEE Trans. Sustain. Energy"
+    },
+    {
+      "full": "IEEE Open Journal of Systems Engineering",
+      "abbr": "IEEE Open J. Syst. Eng."
+    },
+    {
+      "full": "IEEE Systems Journal",
+      "abbr": "IEEE Syst. J."
+    },
+    {
+      "full": "IEEE Systems, Man, and Cybernetics Letters",
+      "abbr": "IEEE Syst., Man, Cybern. Lett."
+    },
+    {
+      "full": "IEEE Systems, Man, and Cybernetics Magazine",
+      "abbr": "IEEE Syst., Man, Cybern. Mag."
+    },
+    {
+      "full": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+      "abbr": "IEEE Trans. Syst., Man, Cybern. Syst."
+    },
+    {
+      "full": "IEEE Technology and Society Magazine",
+      "abbr": "IEEE Technol. Soc. Mag."
+    },
+    {
+      "full": "IEEE Transactions on Technology and Society",
+      "abbr": "IEEE Trans. Technol. Soc."
+    },
+    {
+      "full": "IEEE Journal on Technology in Computer Aided Design",
+      "abbr": "IEEE J. Technol. Computer Aided Des."
+    },
+    {
+      "full": "IEEE Transactions on Terahertz Science and Technology",
+      "abbr": "IEEE Trans. THz Sci. Technol."
+    },
+    {
+      "full": "Today's Engineer",
+      "abbr": "Today’s Engineer"
+    },
+    {
+      "full": "IEEE Translation Journal on Magnetics in Japan",
+      "abbr": "IEEE Transl. J. Magn. Jpn."
+    },
+    {
+      "full": "IEEE Journal of Translational Engineering in Health and Medicine",
+      "abbr": "IEEE J. Transl. Eng. Health Med."
+    },
+    {
+      "full": "IEEE Transactions on Transportation Electrification",
+      "abbr": "IEEE Trans. Transport. Electrific."
+    },
+    {
+      "full": "IEEE Open Journal of Ultrasonics, Ferroelectrics, and Frequency Control",
+      "abbr": "IEEE Open J. Ultrasonics, Ferroelectr., Freq. Control"
+    },
+    {
+      "full": "IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control",
+      "abbr": "IEEE Trans. Ultrason., Ferroelectr., Freq. Control"
+    },
+    {
+      "full": "IEEE Vehicular Technology Magazine",
+      "abbr": "IEEE Veh. Technol. Mag."
+    },
+    {
+      "full": "IEEE Open Journal of Vehicular Technology",
+      "abbr": "IEEE Open J. Veh. Technol."
+    },
+    {
+      "full": "IEEE Transactions on Vehicular Technology",
+      "abbr": "IEEE Trans. Veh. Technol."
+    },
+    {
+      "full": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
+      "abbr": "IEEE Trans. Very Large Scale Integr. (VLSI) Syst."
+    },
+    {
+      "full": "IEEE Transactions on Visualization and Computer Graphics",
+      "abbr": "IEEE Trans. Vis. Comput. Graphics"
+    },
+    {
+      "full": "IEEE Wireless Communications",
+      "abbr": "IEEE Wireless Commun."
+    },
+    {
+      "full": "IEEE Wireless Communications Letters",
+      "abbr": "IEEE Wireless Commun. Lett."
+    },
+    {
+      "full": "IEEE Transactions on Wireless Communications",
+      "abbr": "IEEE Trans. Wireless Commun."
+    },
+    {
+      "full": "IEEE Women in Engineering",
+      "abbr": "IEEE Women Eng."
+    }
+  ]
+}
